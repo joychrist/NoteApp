@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aplikasi Catatan</string>
+    <string name="nama">Nama File</string>
+    <string name="catatan">Catatan</string>
+    <string name="simpan">Simpan</string>
+    <string name="proyek1">Proyek 1</string>
+    <string name="tambahkan">Tambahkan</string>
+</resources>
